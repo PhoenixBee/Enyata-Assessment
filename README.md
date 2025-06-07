@@ -1,6 +1,6 @@
 # Enyata Assessment - Cypress Automated Test
 
-// Description  
+**Description ** 
 Automated Cypress test suite designed to validate core functionalities and user workflows for the Enyata Assessment project.
 
 ===
@@ -29,6 +29,7 @@ https://github.com/PhoenixBee/Enyata-Assessment.git
    npx cypress open
    
 4. Select spec and run test
+
 ===
 
 **Notes**
