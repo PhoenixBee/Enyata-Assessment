@@ -1,6 +1,6 @@
 # Enyata Assessment - Cypress Automated Test
 
-**Description ** 
+**Description** 
 Automated Cypress test suite designed to validate core functionalities and user workflows for the Enyata Assessment project.
 
 ===
@@ -33,6 +33,7 @@ https://github.com/PhoenixBee/Enyata-Assessment.git
 ===
 
 **Notes**
+
 Ensure Node.js version is compatible with Cypress (Node 14+ recommended).
 
 Some tests may rely on specific environment variables or test data; please configure these if applicable.
